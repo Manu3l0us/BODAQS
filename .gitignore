@@ -1,7 +1,7 @@
 # OS Artifacts
 .DS_Store
 Thumbs.db
-Desktop.ini
+desktop.ini
 
 # Editors/IDEs
 *.swp
